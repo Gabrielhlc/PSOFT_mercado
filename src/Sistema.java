@@ -19,5 +19,7 @@ public class Sistema {
 
 		System.out.println(leite);
 		System.out.println(lote);
+
+		catalogo.listarProdutos();
 	}
 }
